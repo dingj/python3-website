@@ -9,12 +9,12 @@
 
     //调整字体。
     "editor.fontSize": 14,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System\\cmd.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "files.autoGuessEncoding": true,
     "editor.fontFamily": "'Consolas', '微软雅黑 Light'",
     "editor.lineHeight": 24,
     "python.linting.pylintEnabled": false,
-    "python.pythonPath": "C:\\App\\Anaconda3\\envs\\imageAI\\python.exe",
+    "python.pythonPath": "C:\\App\\Anaconda3\\envs\\python3website\\python.exe",
     // Folders in your home directory to look into for virtual environments.
     "python.venvFolders": [
     "envs",
