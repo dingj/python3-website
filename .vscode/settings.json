@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+
+    //是否使用flake8来lint python文件。
+    "python.linting.flake8Enabled": true,
+
+    //使用yapf来格式化代码结构。
+    "python.formatting.provider": "yapf",
+
+    //调整字体。
+    "editor.fontSize": 14,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System\\cmd.exe",
+    "files.autoGuessEncoding": true,
+    "editor.fontFamily": "'Consolas', '微软雅黑 Light'",
+    "editor.lineHeight": 24,
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\App\\Anaconda3\\envs\\imageAI\\python.exe",
+    // Folders in your home directory to look into for virtual environments.
+    "python.venvFolders": [
+    "envs",
+    ".pyenv",
+    ".direnv"
+  ],
+
+    "python.venvPath": "C:\\App\\Anaconda3"
+  }
