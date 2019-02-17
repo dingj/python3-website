@@ -14,6 +14,7 @@ async def index(request):
 def init():
     app = web.Application()
     app.router.add_get('/', index)
+    logging.info('server started at http://127.0.0.1:9000...')
     web.run_app(app, host='127.0.0.1', port=9000)
 
 
